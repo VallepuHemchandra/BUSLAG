@@ -6,13 +6,7 @@ BuslaG is a revolutionary project aimed at transforming campus transportation at
 
 - **Live Location Tracking:** Real-time tracking of college buses on a map within the BuslaG application.
 
-## Getting Started
 
-To get started with BuslaG, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/yourusername/buslag.git`
-2. Install dependencies: `npm install`
-3. Start the application: `npm start`
 
 ## Usage
 
